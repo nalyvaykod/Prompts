@@ -24,3 +24,8 @@ end
 ProximityPromptService.PromptTriggered:Connect(onPromptTriggered)
 ProximityPromptService.PromptButtonHoldBegan:Connect(onPromptHoldBegan)
 ProximityPromptService.PromptButtonHoldEnded:Connect(onPromptHoldEnded)
+
+
+
+Video Tutorial: https://www.youtube.com/watch?v=6wZLOqdPcAo
+
